@@ -55,57 +55,57 @@ O sistema computa cada minuto passado como uma hora.
 
 Espero que ele agrade a todos e, se alguém encontrar falhas, agradeço por me avisar.
 
-Menus:
+Menus:<br>
 
-Digite a sua opção:
-P - Parametrizar/Informações
-E - Entrada Manual de Veículo
-B - Saida Manual de Veículo (box)
-S - Saida Manual de Veículo (placa)
-V - Situação Atual (das vagas)
-G - Gerar uma simulação!
-X - Encerrar
+Digite a sua opção:<br>
+P - Parametrizar/Informações<br>
+E - Entrada Manual de Veículo<br>
+B - Saida Manual de Veículo (box)<br>
+S - Saida Manual de Veículo (placa)<br>
+V - Situação Atual (das vagas)<br>
+G - Gerar uma simulação!<br>
+X - Encerrar<br>
+<br>
+Vagas disponiveis: 100<br>
+<br>
+<br>
+Param:<br>
+Digite a sua opção:<br>
+R - Retornar menu Anterior<br>
+I - Valor Inicial: Atual: R$ 12,50<br>
+H - Valor da Hora: Atual: R$ 4,99<br>
+V - Total de Vagas: (será reiniciado) 100<br>
+A - Abertura de caixa: (será reiniciado) R$ 231,90<br>
+C - Listar Caixa<br>
+<br>
+<br>
+Caixa:<br>
+Estacionamento do Nuno Figueiredo - Livro Caixa<br>
+<br>
+--------------------------------------------------------------------------------------------------------------------------<br>
+Data                |Histórico                               |Saldo Anterior|       Entrada|         Saida|         Saldo<br>
+26/11/2025 00:51:33 |Saldo inicial do exercício              |             0|        231,90|             0|        231,90<br>
+--------------------------------------------------------------------------------------------------------------------------<br>
+<br>
+Receita total do dia: R$ 0,00<br>
+<br>
+<br>
+Aperte qualquer tecla<br>
 
-Vagas disponiveis: 100
-
-
-Param:
-Digite a sua opção:
-R - Retornar menu Anterior
-I - Valor Inicial: Atual: R$ 12,50
-H - Valor da Hora: Atual: R$ 4,99
-V - Total de Vagas: (será reiniciado) 100
-A - Abertura de caixa: (será reiniciado) R$ 231,90
-C - Listar Caixa
-
-
-Caixa:
-Estacionamento do Nuno Figueiredo - Livro Caixa
-
---------------------------------------------------------------------------------------------------------------------------
-Data                |Histórico                               |Saldo Anterior|       Entrada|         Saida|         Saldo
-26/11/2025 00:51:33 |Saldo inicial do exercício              |             0|        231,90|             0|        231,90
---------------------------------------------------------------------------------------------------------------------------
-
-Receita total do dia: R$ 0,00
-
-
-Aperte qualquer tecla
-
-Mapa de vagas:
-Vagas disponiveis: 100
-
-
-
-b: 001     |b: 002     |b: 003     |b: 004     |b: 005     |b: 006     |b: 007     |b: 008     |b: 009     |b: 010     |
-b: 011     |b: 012     |b: 013     |b: 014     |b: 015     |b: 016     |b: 017     |b: 018     |b: 019     |b: 020     |
-b: 021     |b: 022     |b: 023     |b: 024     |b: 025     |b: 026     |b: 027     |b: 028     |b: 029     |b: 030     |
-b: 031     |b: 032     |b: 033     |b: 034     |b: 035     |b: 036     |b: 037     |b: 038     |b: 039     |b: 040     |
-b: 041     |b: 042     |b: 043     |b: 044     |b: 045     |b: 046     |b: 047     |b: 048     |b: 049     |b: 050     |
-b: 051     |b: 052     |b: 053     |b: 054     |b: 055     |b: 056     |b: 057     |b: 058     |b: 059     |b: 060     |
-b: 061     |b: 062     |b: 063     |b: 064     |b: 065     |b: 066     |b: 067     |b: 068     |b: 069     |b: 070     |
-b: 071     |b: 072     |b: 073     |b: 074     |b: 075     |b: 076     |b: 077     |b: 078     |b: 079     |b: 080     |
-b: 081     |b: 082     |b: 083     |b: 084     |b: 085     |b: 086     |b: 087     |b: 088     |b: 089     |b: 090     |
-b: 091     |b: 092     |b: 093     |b: 094     |b: 095     |b: 096     |b: 097     |b: 098     |b: 099     |b: 100     |
-
-pressione qualquer tecla para voltar!
+Mapa de vagas:<br>
+Vagas disponiveis: 100<br>
+<br>
+<br>
+<br>
+b: 001     |b: 002     |b: 003     |b: 004     |b: 005     |b: 006     |b: 007     |b: 008     |b: 009     |b: 010     |<br>
+b: 011     |b: 012     |b: 013     |b: 014     |b: 015     |b: 016     |b: 017     |b: 018     |b: 019     |b: 020     |<br>
+b: 021     |b: 022     |b: 023     |b: 024     |b: 025     |b: 026     |b: 027     |b: 028     |b: 029     |b: 030     |<br>
+b: 031     |b: 032     |b: 033     |b: 034     |b: 035     |b: 036     |b: 037     |b: 038     |b: 039     |b: 040     |<br>
+b: 041     |b: 042     |b: 043     |b: 044     |b: 045     |b: 046     |b: 047     |b: 048     |b: 049     |b: 050     |<br>
+b: 051     |b: 052     |b: 053     |b: 054     |b: 055     |b: 056     |b: 057     |b: 058     |b: 059     |b: 060     |<br>
+b: 061     |b: 062     |b: 063     |b: 064     |b: 065     |b: 066     |b: 067     |b: 068     |b: 069     |b: 070     |<br>
+b: 071     |b: 072     |b: 073     |b: 074     |b: 075     |b: 076     |b: 077     |b: 078     |b: 079     |b: 080     |<br>
+b: 081     |b: 082     |b: 083     |b: 084     |b: 085     |b: 086     |b: 087     |b: 088     |b: 089     |b: 090     |<br>
+b: 091     |b: 092     |b: 093     |b: 094     |b: 095     |b: 096     |b: 097     |b: 098     |b: 099     |b: 100     |<br>
+<br>
+pressione qualquer tecla para voltar!<br>
